@@ -14,5 +14,5 @@ A continuación se muestra el Diagrama Entidad-Relación (DER) de la base de dat
 
 ##Colaboradores
 * **Diana Patricia Malaquías Olivares** - GitHub: [@dianamalaquias](https://github.com/dianamalaquias)
-* **Alberto Agustín Díaz Jiménez **  - GitHub: [@albertodiaz05](https://github.com/albertodiaz05)
+* **Alberto Agustín Díaz Jiménez**  - GitHub: [@albertodiaz05](https://github.com/albertodiaz05)
  
