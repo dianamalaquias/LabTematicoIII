@@ -11,3 +11,7 @@ hasta que se registra la renta por fechas y se guarda su pago. Además, agregamo
 ## Diagrama Entidad-Relación (DER)
 A continuación se muestra el Diagrama Entidad-Relación (DER) de la base de datos generado en MySQL Workbench:
 ![Diagrama ER](DIAGRAMA-RENTADORACANCUN.png)
+
+##Colaboradores
+* **Diana Patricia Malaquías Olivares** - GitHub: [@dianamalaquias](https://github.com/dianamalaquias)
+* **Alberto Agustín Díaz Jiménez ** - GitHub: [@albertodiaz05](https://github.com/albertodiaz05)
